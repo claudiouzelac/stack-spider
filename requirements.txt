@@ -6,7 +6,7 @@ cssselect==0.9.1
 enum34==1.0.4
 lxml==3.4.1
 mongoengine==0.8.7
-pyOpenSSL==0.14
+pyOpenSSL==17.5.0
 pyasn1==0.1.7
 pycparser==2.10
 pymongo==2.7.2
